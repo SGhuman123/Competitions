@@ -2,6 +2,10 @@
 
 In 2021, my friends and I took part in the BeyondHealthHack hackaton hosted by NUS, we chose to tackle the theme of diabetes and fcreated a prototype using UI/UX skills in Figman as well as preliminary research to best answer the challenge. We made it through the first round and eventually made it to the final round. In this folder you can see our slides. 
 
+
+<img width="532" alt="Screenshot 2023-05-28 at 2 08 16 AM" src="https://github.com/SGhuman123/Tableau-Portfolio/assets/63066897/388c8d77-0d27-498c-aa60-7486b714094b">
+
+
 Here is the Youtube link to our presentation: 
 
 https://www.youtube.com/watch?v=DcCFBERpo9U
