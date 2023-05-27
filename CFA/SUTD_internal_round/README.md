@@ -1,3 +1,3 @@
 # About 
 
-Here are where you can view the internal submission made by my team and I for the CFA competition.
+Here is where you can view the internal submission made by my team and I for the CFA competition.
