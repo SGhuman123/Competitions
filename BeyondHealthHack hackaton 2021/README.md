@@ -1,6 +1,6 @@
 # About 
 
-In 2021, my friends and I took part in the BeyondHealthHack hackaton hosted by NUS, we made it through the first round and eventually made it to the final round. In this folder you can see our slides.
+In 2021, my friends and I took part in the BeyondHealthHack hackaton hosted by NUS, we chose to tackle the theme of diabetes and fcreated a prototype using UI/UX skills in Figman as well as preliminary research to best answer the challenge. We made it through the first round and eventually made it to the final round. In this folder you can see our slides. 
 
 Here is the Youtube link to our presentation: 
 
